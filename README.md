@@ -1,4 +1,4 @@
-# PlatinumRx_Assignment
+# PlatinumRx Assignment README
 
 ## Overview
 
