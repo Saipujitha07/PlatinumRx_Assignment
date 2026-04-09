@@ -6,7 +6,7 @@ This project demonstrates basic data analysis skills using SQL, spreadsheets, an
 
 ## Project Structure
 
-Data_Analyst_Assignment/
+PlatinumRx_Assignment/
 
 * SQL/
 
